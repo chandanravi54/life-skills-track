@@ -30,24 +30,19 @@ Then index these keywords, and by indexing, we can correspond to the newspapers 
   
 ## Abstract  
   
-Today, every kind of text, audio, and visual data, which are thought to be transformed into pieces of information, are stored for long periods for processing. The concept of Bid Data is not only associated with the data stored, but also with the system involving hardware and software that collects, processes, stores, and analyzes the data. As the data grows bigger, their physical storage options must be provided in a distributed architecture. Solr and Elasticsearch are among the most preferred tools which makes this storage process easier.  
-As a part of the Apache Lucene project, Solr is a software that was started to be developed in 2004 with the searching features of full text,  
-multiple search, dynamic clustering, database-integrated, open source, and elasticity. Similarly, Elasticsearch is a new open-source tool for  
-real-time, full-text, and distributed search, which was launched in 2010 using the Lucene library.  
+Today, every kind of text, audio, and visual data, which are thought to be transformed into pieces of information, are stored for long periods for processing. The concept of Bid Data is not only associated with the data stored, but also with the system involving hardware and software that collects, processes, stores, and analyzes the data. As the data grows bigger, their physical storage options must be provided in a distributed architecture. Solr and Elasticsearch are among the most preferred tools which makes this storage process easier. As a part of the Apache Lucene project, Solr is a software that was started to be developed in 2004 with the searching features of full text, multiple search, dynamic clustering, database-integrated, open source, and elasticity. Similarly, Elasticsearch is a new open-source tool for real-time, full-text, and distributed search, which was launched in 2010 using the Lucene library.  
 Although Solr and Elasticsearch have similar features, many parameters differentiate one from the other such as intended use, type of use, and query and indexing performances. This study analyzes the differences between Solr and Elasticsearch with regards to their query and indexing speeds, ease and difficulties of use, configuration forms, and architectures in light of the literature, and the results are discussed regarding these tools’ performances.  
   
 ## Solr  
   
-Solr is an open-source enterprise search platform, written in Java,  
-from the Apache Lucene project and its major features include full-  
-text search hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features, and rich document (e.g., Word, PDF) handling.  
+Solr is an open-source enterprise search platform, written in Java, from the Apache Lucene project and its major features include full-text search hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features, and rich document (e.g., Word, PDF) handling.  
 Apache Solr is an open-source search platform built on a Java library called Lucene. It provides search functionality for Apache Lucene in a user-friendly way. As an industry participant for almost a decade, it is a mature product with a strong and extensive user community.  
 If it is properly deployed and well managed, it can become a highly reliable, scalable, and fault-tolerant search engine.  
-Many internet giants such as Netflix, eBay, Instagram, and Amazon ( CloudSearch ) use Solr because it can index and search multiple sites.  
+Many internet giants such as Netflix, eBay, Instagram, and Amazon (CloudSearch) use Solr because it can index and search multiple sites.  
   
 The main feature list includes:  
-- research all  
-- protruding  
+- Research all  
+- Protruding  
 - Faceted search  
 - Real-time indexing  
 - Dynamic cluster  
@@ -55,31 +50,18 @@ The main feature list includes:
   
 ## Elasticsearch  
   
-Elasticsearch is also another distributed and open-source analysis  
-and search tool which was developed using the Lucene library. It was  
-designed for Scalability, security, and easy management. Using its query language that indexes structural and non-structural, and time-based data, provides rapid search and powerful analysis capabilities.  
+Elasticsearch is also another distributed and open-source analysis and search tool which was developed using the Lucene library. It was designed for Scalability, security, and easy management. Using its query language that indexes structural and non-structural, and time-based data, provides rapid search and powerful analysis capabilities.  
   
 Technical Specifications of Elasticsearch  
-Elasticsearch is a document-based tool. Each entry in Elasticsearch  
-is a structured JSON document. In other words, each data sent to  
-elasticsearch for indexing is a JSON document. It is necessary to know some basic concepts to understand the structure of Elasticsearch. 
+Elasticsearch is a document-based tool. Each entry in Elasticsearch is a structured JSON document. In other words, each data sent to elasticsearch for indexing is a JSON document. It is necessary to know some basic concepts to understand the structure of Elasticsearch. 
 These are as follows:  
   
-Index: An index is like a database in a relational database. Each  
-The elastic search index is a structured JSON document.  
-Type: A type is like a table in a relational database. Elasticsearch  
-indexes can include more than one type.  
-Mapping: This is managing how the data transferred  
-types on indexes should be handled. It is equal to the identification of  
-data type (string, integer, double, boolean) before adding the data  
-in the traditional databases. Elasticsearch automatically realizes  
-mapping based on the data, however, this can also be done  
-manually.  
-Shard/Sharding: It is the horizontal distribution of data to other  
-machines on the network in database technologies. Thanks to  
-sharding technology, data can be divided into pieces based on the  
-existing physical facilities. Elasticsearch divides indexes into 5  
-shards by default to store them. ElasticSearch can be extended with near real-time search. One of its main features is multi-tenancy.  
+Index: An index is like a database in a relational database. Each elastic search index is a structured JSON document.  
+Type: A type is like a table in a relational database. Elasticsearch indexes can include more than one type.  
+Mapping: This is managing how the data transferred types on indexes should be handled. It is equal to the identification of data type (string, integer, double, boolean) before adding the data in the
+traditional databases. Elasticsearch automatically realizes mapping based on the data, however, this can also be done manually.  
+Shard/Sharding: It is the horizontal distribution of data to other machines on the network in database technologies. Thanks to sharding technology, data can be divided into pieces based on the  
+existing physical facilities. Elasticsearch divides indexes into 5 shards by default to store them. ElasticSearch can be extended with near real-time search. One of its main features is multi-tenancy.  
 The main feature list includes:  
 
 - Distributed search  
@@ -100,21 +82,14 @@ Solr is more mature, and flexible since it still is an open source.
 Solr scored high here. It is a very well-documented product with clear examples and API use case scenarios.  
 Elasticsearch ‘s documentation is well organized, but it lacks good examples and clear configuration instructions.  
 4. QPS Test  
-Queries per second (QPS) is a common measure of the amount of  
-Search traffic is an information retrieval system, such as a search  
+Queries per second (QPS) is a common measure of the amount of search traffic is an information retrieval system, such as a search  
 engine or a database receives during one second.  
-In the QPS test conducted between Elasticsearch and Solr, indexing  
-was continued as a continuation of the previous test. QPS figures  
-were measured for both tools while the indexing process was active.  
+In the QPS test conducted between Elasticsearch and Solr, indexing was continued as a continuation of the previous test. QPS figures were measured for both tools while the indexing process was active.  
 Elasticsearch reached 30 QPS speed, while Solr remained at 15 QPS speed when sending similar search requests.  
-In another QPS test conducted with 40 million pieces of data  
-(between 200 and 1000 words), it was observed that Solr had better  
-performance.  
+In another QPS test conducted with 40 million pieces of data (between 200 and 1000 words), it was observed that Solr had better performance.  
   
 ## Conclusions  
-Solr and Elasticsearch are two similar search platforms that are  
-both Lucene-based, has similar coding languages, intended use and  
-styles.  
+Solr and Elasticsearch are two similar search platforms that are both Lucene-based, has similar coding languages, intended use and  styles.  
   
 1. They are similar tools in terms of technical features.  
 2. Elasticsearch supports more coding languages than Solr.  
