@@ -1,22 +1,15 @@
 ## What kind of behavior cause sexual harassment?  
-  
-#### Sexual harassment includes such behavior as...<br>  
-• Unwanted letters, telephone calls, or materials of a sexual nature.<br>  
-• Unwanted pressure for sexual favors.<br>  
-• Unwanted deliberate touching, leaning over, cornering, or pinching.<br>  
-• Unwanted sexual looks or gestures.<br>  
-• Actual or attempted rape or sexual assault.<br>  
-• Unwanted pressure for dates.<br>  
-• Unwanted sexual teasing, jokes, remarks, or questions.<br>  
-• Referring to an adult as a girl, hunk, doll, babe, or honey.<br>  
-• Whistling at someone  
-, Cat calls., Sexual comments, Turning work discussions into sexual topics.<br>  
-• Sexual innuendos or stories.<br>  
-• Asking about sexual fantasies, preferences, or history.<br>  
-• Personal questions about social or sexual life.<br>  
-• Sexual comments about a person's clothing, anatomy, or looks.<br>  
-• Kissing sounds, howling, and smacking lips.<br>  
-• Telling lies or spreading rumors about a person's personal sex life.<br>  
+   
+1. Unwanted letters, telephone calls, or materials of a sexual nature.
+2. Unwanted pressure for sexual favors.
+3. Unwanted deliberate touching, leaning over, cornering, or pinching.
+4. Unwanted sexual looks or gestures.
+5. Actual or attempted rape or sexual assault.
+6. Unwanted pressure for dates.
+7. Unwanted sexual teasing, jokes, remarks, or questions.
+8. Telling lies or spreading rumors about a person's personal sex life.
+9. Sexual comments about a person's clothing, anatomy, or looks.
+10. Personal questions about social or sexual life.
   
 ## What would you do in case you face or witness any incident or repeated incidents of such behavior?  
   
@@ -54,13 +47,13 @@ Promote equity and respect in your workplace, and be an ally to someone being ha
 2. Document incidents: Keep a record of the harassment incidents, including dates, times, locations, and descriptions. Preserve any evidence such as messages, emails, or photographs that can support your case.  
   
 3. Understand your rights and policies: Familiarize yourself with the laws and policies related to harassment in your specific jurisdiction or organization. This knowledge will empower you to take appropriate action and make informed decisions.  
-Seek support: Reach out to someone you trust, such as a friend, colleague, or supervisor, and share your experience. They can provide emotional support and help you navigate the process of addressing the harassment.  
+4. Seek support: Reach out to someone you trust, such as a friend, colleague, or supervisor, and share your experience. They can provide emotional support and help you navigate the process of addressing the harassment.  
   
-4. Report the harassment: If you feel comfortable and it's safe to do so, report the harassment to the appropriate authority within your organization, such as a supervisor, human resources department, or designated reporting channels. Follow the established procedures and provide them with all relevant information and evidence you have gathered.  
+5. Report the harassment: If you feel comfortable and it's safe to do so, report the harassment to the appropriate authority within your organization, such as a supervisor, human resources department, or designated reporting channels. Follow the established procedures and provide them with all relevant information and evidence you have gathered.  
   
-5. Seek legal advice: If the harassment persists or the response from your organization is inadequate, consult with a lawyer or seek advice from a legal service provider specializing in employment or harassment law. They can guide you through your rights, potential legal actions, and available remedies.  
+6. Seek legal advice: If the harassment persists or the response from your organization is inadequate, consult with a lawyer or seek advice from a legal service provider specializing in employment or harassment law. They can guide you through your rights, potential legal actions, and available remedies.  
   
-6. Practice self-care: Dealing with harassment can be emotionally draining. Take care of yourself by seeking support from friends, family, or professionals. Engage in self-care activities that help you manage stress and maintain your well-being.  
+7. Practice self-care: Dealing with harassment can be emotionally draining. Take care of yourself by seeking support from friends, family, or professionals. Engage in self-care activities that help you manage stress and maintain your well-being.  
   
 ### How to behave appropriately?  
   
