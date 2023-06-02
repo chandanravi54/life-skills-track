@@ -34,7 +34,7 @@ This is true for building a habit and breaking an old habit in equal measure. <b
 
 As said by someone, it doesn’t take 21 days to wire in a habit, says psychologist BJ Fogg. Sometimes, all you need is a shot of positive feeling and emotion, a dose of celebration. Celebrating is a great way to reinforce small changes and pave the way for big successes.<br>
 
-<h2>Your takeaways from the video (1% Better Every Day )</h2><br>
+<h2>Your takeaways from the video (1% Better Every Day )</h2>
 
 * Habits are the compound interest of self-improvement".<br>
 * Many people think that they lack motivation when what they lack is clarity.<br>
@@ -66,7 +66,7 @@ One habit I just want to apply in my daily life is "Early to be, early to rise".
 Because the early morning hours are a time for peaceful reflection and ample productivity, when the world is still asleep, allowing you to focus wholeheartedly on your long-term goals. Anyone serious about success in any measure knows that it's important to wake up early.
 Even if you're not a morning person, use incremental changes in your daily routine to start waking up earlier and earlier. Begin by setting your alarm clock back by 15 minutes the first week, 15 minutes the next week, and so on. Do this until you can wake up at least two hours earlier than you're waking up now.
 
-<h2>Pick one habit that you would like to eliminate or do less of. What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?</h2><br>
+<h2>Pick one habit that you would like to eliminate or do less of. What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?</h2>
 
 There are many habits I to get rid of for better health
 
