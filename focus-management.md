@@ -30,12 +30,12 @@ Deep Work Strategies
 Identify your needs, level, and ability— if you take your work life as an example, what stage are you at? What experience do you have? What’s possible for you? Note this down. Once you know this, it’s much easier to know if what you’re doing is specific to your needs.<br>
 Ask yourself, “is it specific to you?” — you don’t want to be caught up in something irrelevant to you. Question yourself to ensure that what you’re doing is right for you.<br>
 
-2. Progressive Overload<br>
+5. Progressive Overload<br>
 * Volunteer for different things <br>
 * Take very small steps<br>
 * Don’t be afraid to take risks<br>
 
-3. Rest and Recovery<br>
+6. Rest and Recovery<br>
 Adaptations and growth occur during recovery and rest phases in your training cycle. The same goes for your personal life too. When you take time to rest, chill out and relax, when it’s time to get going again<br>
 
 ## 4. Key takeaways from the video:-
