@@ -2,7 +2,7 @@
 
 #### Following Answers are according to points:-
 
-* From the first point Make notes while discussing requirements with the team and Make sure to ask questions and seek clarity in the meeting itself. Since most of the time, it will be challenging to get the same set of people online again is the main takeaway.
+* From the first point make notes while discussing requirements with the team and make sure to ask questions and seek clarity in the meeting itself. Since most of the time, it will be challenging to get the same set of people online again is the main takeaway.
 
 * If you are going through any issue like a gadget problem, Internet issue or any delay in deadline then make sure to tell your team about it.
 
